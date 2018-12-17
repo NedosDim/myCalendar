@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "myCalendar", "myCalendar\myCalendar.vbproj", "{4D3DCF0C-7A8F-4C01-A954-2E484C56D271}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D3DCF0C-7A8F-4C01-A954-2E484C56D271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D3DCF0C-7A8F-4C01-A954-2E484C56D271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D3DCF0C-7A8F-4C01-A954-2E484C56D271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D3DCF0C-7A8F-4C01-A954-2E484C56D271}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A5E2F7E-8F29-420E-9E3A-68FA3B018EC2}
+	EndGlobalSection
+EndGlobal
